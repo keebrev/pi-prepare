@@ -2,7 +2,7 @@
 
 # Update and upgrade
 sudo apt update
-sudo apt upgrade -y
+sudo apt full-upgrade -y
 
 # Install git and curl
 sudo apt install -y git curl
