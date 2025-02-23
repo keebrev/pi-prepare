@@ -5,7 +5,7 @@ Repository holding scripts for bootstrapping a Raspberry Pi to run certain servi
 ## Contents
 
 1. [Preparing your pi for running Node](#node)
-2. [](#)
+2. [Preparing your pi for NodeJS SDR Listener](#SDR-listener)
 
 ## Scripts usage
 
@@ -22,9 +22,9 @@ Repository holding scripts for bootstrapping a Raspberry Pi to run certain servi
 This script will bootstrap your pi for running NodeJS applications.
 
 
-## Antenna Listener
+### SDR Listener
 
 `bootstrap-pi-antenna.sh`
 
-This script will bootstrap your pi for running [this Antenna NodeJS listener](https://github.com/keebrev/nodejs-antenna-listener) application.
+This script will bootstrap your pi for running [this SDR NodeJS listener](https://github.com/keebrev/nodejs-antenna-listener) application.
 
